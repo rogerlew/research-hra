@@ -1,0 +1,1 @@
+Cacciabue, P. C., Decortis, F., Drozdowicz, B., Masson, M., & Nordvik, J.-P. (1992). COSIMO: A cognitive simulation model of human decision making and behavior in accident management of complex plants. IEEE Transactions on Systems, Man, and Cybernetics, 22(5), 1058–1074. doi:10.1109/21.179844 
